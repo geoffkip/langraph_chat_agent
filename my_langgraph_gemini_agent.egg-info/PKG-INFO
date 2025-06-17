@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: my-langgraph-gemini-agent
+Version: 0.1.0
+Requires-Dist: langgraph
+Requires-Dist: langchain-google-genai
+Requires-Dist: langserve
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: python-dotenv
+Requires-Dist: sse-starlette
+Requires-Dist: gradio

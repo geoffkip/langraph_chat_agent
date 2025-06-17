@@ -1,0 +1,8 @@
+langgraph
+langchain-google-genai
+langserve
+fastapi
+uvicorn
+python-dotenv
+sse-starlette
+gradio
